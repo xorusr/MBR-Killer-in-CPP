@@ -1,5 +1,6 @@
 //XoredUser's cock and ball torture for windows faggots from 2018
 //xoreduser@gmail.com
+//xorusr@gmail.com
 #include<iostream>
 #include <thread> 
 #include <chrono>
